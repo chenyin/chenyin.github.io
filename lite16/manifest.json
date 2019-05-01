@@ -1,0 +1,439 @@
+{
+    "@context": [
+        "https://readium.org/webpub-manifest/context.jsonld"
+    ],
+    "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "经典常谈·文艺十六讲",
+        "identifier": "8da1513f-290e-4468-9002-b7b3dffb1fa5",
+        "author": [
+            {
+                "name": "朱自清, ePUBw.COM"
+            }
+        ],
+        "publisher": [
+            {
+                "name": "华东师范大学出版社"
+            }
+        ],
+        "language": [
+            "und"
+        ],
+        "modified": "Wed May 01 2019 12:04:11 GMT+0800 (China Standard Time)"
+    },
+    "readingOrder": [
+        {
+            "href": "OEBPS/Text/cover.xhtml",
+            "type": "application/xhtml+xml"
+        },
+        {
+            "href": "OEBPS/Text/TOC.xhtml",
+            "type": "application/xhtml+xml"
+        },
+        {
+            "href": "OEBPS/Text/Section0001_split_000.xhtml",
+            "type": "application/xhtml+xml"
+        },
+        {
+            "href": "OEBPS/Text/Section0001_split_001.xhtml",
+            "type": "application/xhtml+xml"
+        }
+    ],
+    "resources": [
+        {
+            "href": "OEBPS/Images/cover.jpg",
+            "type": "image/jpeg",
+            "height": 354,
+            "width": 236,
+            "rel": "cover"
+        },
+        {
+            "href": "OEBPS/Images/image_0754315e81a74075956a49c444d45106.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_141dd3ac9b7245549d58aec455631315.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2338ce85aa29465ebfef71f27ea2b3a0.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2557fa2c29d9424982a98a0a39a9a5f1.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2834280a32494318a3deb7c6c8740b49.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_29aba38a9f5b411ba56701ea576d0ad4.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2ba055c8dcc74eac9103d829a566d2a2.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2d827382e8ed469dae6392a8b7fde5dd.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2ed1b746f12f4d5fbd414832593eff17.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_2ff1b74743bc46eca313982f5fcb99d9.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_341b774ef62441eba066ddc210ed33d3.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_397aec150fac4946a6c49ac9140c5dda.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_3c37f2a815d648ffa8074c6f329adf66.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_3e684b14bd68459190afacdaab963d8a.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_444c8f0d7f6f4408b7957509517df4c6.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_457d11209cd1457cb05f0193ef765bc2.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_4e749a5dafc04191bb0f0ae25a75e246.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_569fda44a737448bb1aca049a65075bd.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_5a435aed141243b99412ed330af2cc12.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_5adc5e5bc1d24de9aaab64a0140b1d32.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_5c08c8227e334ab8966d75e62730d8c0.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_65281d5d7e274113860e866bfa61ee8c.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_6edbb45ed48c42ea872f384e56ec024d.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_76330ac845924e0493254e3e30f311de.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_7f38df192814424692ffb1f02c465610.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_7f893039000f4c5194e1daab78c64ee5.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_883e612cc77c4eedb0e47d883c377904.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_97436b436b304d56b9154c40b96f8a36.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_9a3fc77e0b3b4e9fb1a529e0e5f1fdf8.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_9ab10b38734b44348183ab276131a4aa.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_9c46bbc7a08748a3a015e8d202f59138.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_9d4ee3b9106546699fa7484bbf2ff9d0.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_9ddfce13f488480396773addbd69b01c.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_a42bc32742fe4819a38e8908afcaee37.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_a4ca57773202475ca62bab28285d77b0.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_a645d22e4863472f8eeb3fe332db3b4d.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_a67b393cb98d452a8ac2edd3d0d20bbd.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_abddf4fa80fd47f588709c5091024186.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_ad77685733064daca7f77450ee36c44a.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_b0739db15ec44f8090343ec5048f8b27.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_b190de9062774c0791e501def55d917b.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_b9a564c12992441ca7504e2315968ff0.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_c3f25168ec7b43ca809e32d71e8798a4.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_c4b7188d359d44e5afd193029b38df98.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_c55a334c3b274d6da51b665625dd0166.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_c977213ffdba47af87d959eaf091f92a.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_d05bb0fee365448bba982e937ba9bdcd.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_d1b4a063e1e14733bd5e33f5ff1c6bd5.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_d2b8688790f645af901a0efedc32f68f.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_dda778f291b642a38bcf99193be9d4bb.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_deb8944f772a40e684632b40ace3a03e.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_e23645143a594ac589610c44a6f38aec.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_e326508196c24a87b52180b4eb0fff19.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_ea7059d672f444bcb5a5f9120f5f0e48.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_eaeb3ef6479546918db39d0944eafefc.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "OEBPS/Images/image_f4d2e05c035d477d9e108bcd78cefa15.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "page_styles.css",
+            "type": "text/css"
+        },
+        {
+            "href": "stylesheet.css",
+            "type": "text/css"
+        },
+        {
+            "href": "toc.ncx",
+            "type": "application/x-dtbncx+xml"
+        }
+    ],
+    "toc": [
+        {
+            "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1",
+            "title": "封面"
+        },
+        {
+            "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2",
+            "title": "插图"
+        },
+        {
+            "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3",
+            "title": "经典常谈",
+            "children": [
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4",
+                    "title": "序"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_5",
+                    "title": "《说文解字》第一"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_6",
+                    "title": "《周易》第二"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_7",
+                    "title": "《尚书》第三"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_8",
+                    "title": "《诗经》第四"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_9",
+                    "title": "“三礼”第五"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_10",
+                    "title": "《春秋》三传第六"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_11",
+                    "title": "四书第七"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_12",
+                    "title": "《战国策》第八"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_13",
+                    "title": "《史记》《汉书》第九"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_14",
+                    "title": "诸子第十"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_15",
+                    "title": "辞赋第十一"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_16",
+                    "title": "诗第十二"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_17",
+                    "title": "文第十三"
+                }
+            ]
+        },
+        {
+            "href": "OEBPS/Text/Section0001_split_001.xhtml",
+            "title": "文艺十六讲",
+            "children": [
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_19",
+                    "title": "什么是文学？"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_20",
+                    "title": "古文学的欣赏"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_21",
+                    "title": "了解与欣赏"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_22",
+                    "title": "论教本与写作"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_23",
+                    "title": "论雅俗共赏"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_24",
+                    "title": "论百读不厌"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_25",
+                    "title": "论书生的酸气"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_26",
+                    "title": "低级趣味"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_27",
+                    "title": "诗与话"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_28",
+                    "title": "歌谣里的重叠"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_29",
+                    "title": "诗与幽默"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_30",
+                    "title": "诗的形式"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_31",
+                    "title": "诗韵"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_32",
+                    "title": "诗的语言"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_33",
+                    "title": "论“以文为师”"
+                },
+                {
+                    "href": "OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_34",
+                    "title": "再论“曲终人不见，江上数峰青”"
+                }
+            ]
+        }
+    ],
+    "landmarks": [
+        {
+            "href": "OEBPS/Text/cover.xhtml",
+            "title": "Title Page"
+        },
+        {
+            "href": "OEBPS/Text/cover.xhtml",
+            "title": "封面"
+        }
+    ]
+}
